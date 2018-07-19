@@ -12,7 +12,7 @@ ctx.beginPath();
 ctx.moveTo(100,80);
 ctx.lineTo(100,260);
 ctx.closePath();
-ctx.lineWidth="5";
+ctx.lineWidth='5';
 ctx.stokeStyle = '#000';
 ctx.stroke();
 //Lettre E barre horisontale1
@@ -20,7 +20,7 @@ ctx.beginPath();
 ctx.moveTo(100,80);
 ctx.lineTo(140,80);
 ctx.closePath();
-ctx.lineWidth="5";
+ctx.lineWidth='5';
 ctx.stokeStyle = '#000';
 ctx.stroke();
 //Lettre E barre horisontale2
@@ -28,7 +28,7 @@ ctx.beginPath();
 ctx.moveTo(100,170);
 ctx.lineTo(140,170);
 ctx.closePath();
-ctx.lineWidth="5";
+ctx.lineWidth='5';
 ctx.stokeStyle = '#000';
 ctx.stroke();
 //Lettre E barre horisontale3
@@ -36,7 +36,7 @@ ctx.beginPath();
 ctx.moveTo(100,260);
 ctx.lineTo(140,260);
 ctx.closePath();
-ctx.lineWidth="5";
+ctx.lineWidth='5';
 ctx.stokeStyle = '#000';
 ctx.stroke();
 //Lettre N barre vertical1
@@ -44,7 +44,7 @@ ctx.beginPath();
 ctx.moveTo(270,80);
 ctx.lineTo(270,260);
 ctx.closePath();
-ctx.lineWidth="5";
+ctx.lineWidth='5';
 ctx.stokeStyle = '#000';
 ctx.stroke();
 //Lettre N barre vertical2
@@ -52,7 +52,7 @@ ctx.beginPath();
 ctx.moveTo(420,80);
 ctx.lineTo(420,260);
 ctx.closePath();
-ctx.lineWidth="5";
+ctx.lineWidth='5';
 ctx.stokeStyle = '#000';
 ctx.stroke();
 //Lettre N barre oblique
@@ -60,7 +60,7 @@ ctx.beginPath();
 ctx.moveTo(270,80);
 ctx.lineTo(420,260);
 ctx.closePath();
-ctx.lineWidth="5";
+ctx.lineWidth='5';
 ctx.stokeStyle = '#000';
 ctx.stroke();
 //Le 2 avec courbe quadratic
